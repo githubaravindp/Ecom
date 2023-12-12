@@ -1,0 +1,12 @@
+.ant-menu{
+    background-color: bisque;
+    height: 707px;
+
+}
+.main-container{
+    display: flex;
+}
+
+.sidebar-container{
+    height: 500px;
+}

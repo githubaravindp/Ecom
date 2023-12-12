@@ -1,0 +1,12 @@
+.products{
+    padding: 20px;
+    
+}
+
+.products h1{
+    color: rgb(70, 70, 188);
+    font-weight: 800;
+}
+.products img{
+    height: 50px ;
+}
